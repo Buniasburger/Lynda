@@ -1,6 +1,3 @@
-[submodule "Git"]
-	path = Git Essential Training
-	url = https://github.com/Buniasburger/Git-Essential-Training
 [submodule "Git Essential Training"]
 	path = Git Essential Training
 	url = https://github.com/Buniasburger/Git-Essential-Training
